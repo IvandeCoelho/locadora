@@ -35,4 +35,4 @@ Este é um sistema simples de locadora de DVDs feito em Python, com menus intera
 2. Execute o arquivo principal com Python:
 
 ```bash
-python nome_do_arquivo.py
+python main.py
